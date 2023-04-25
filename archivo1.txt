@@ -1,2 +1,3 @@
 clase 2 de python con base de datos.
 vemos algunos cambios
+tercer cambio
